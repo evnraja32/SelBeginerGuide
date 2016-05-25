@@ -4,6 +4,8 @@
   <test name="Test">
     <classes>
       <class name="testcases.NewTest"/>
+      <class name="factorysamples.*"></class>
+      <class name="testng.prioritycheck.*"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
