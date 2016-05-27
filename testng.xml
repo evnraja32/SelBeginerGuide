@@ -4,8 +4,12 @@
   <test name="Test">
     <classes>
       <class name="testcases.NewTest"/>
-      <class name="factorysamples.*"></class>
-      <class name="testng.prioritycheck.*"></class>
+      <class name="factorysamples.SimpleTest"></class>
+      <class name="factorysamples.SimpleTestFactory"></class>
+      <class name="testng.prioritycheck.TestCase1"></class>
+      <class name="testng.prioritycheck.TestCase2"></class>
+      <class name="testng.prioritycheck.TestCase3"></class>
+      <class name="testng.prioritycheck.TestCase4"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
