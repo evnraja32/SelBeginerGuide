@@ -4,7 +4,12 @@
   <test name="Test">
     <classes>
       <class name="testcases.NewTest"/>
-      <class name="factorysamples.SimpleTest"></class>
+      <class name="factorysamples.SimpleTest">
+      <methods>
+    
+      </methods>
+      
+      </class>
       <class name="factorysamples.SimpleTestFactory"></class>
       <class name="testng.prioritycheck.TestCase1"></class>
       <class name="testng.prioritycheck.TestCase2"></class>
